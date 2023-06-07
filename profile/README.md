@@ -19,7 +19,7 @@ Kash allows users to load money into their account through debit or credit card 
 
 Our solution is not only limited to end users, we know that merchants and event organizers are also very important, that is why with Kash they will be able to obtain detailed analysis of each event, accessing information about the transactions made by users, real-time statistics per event and a complete history of Kash usage in different periods of time.
 
-O**ur competitive advantages are:**
+### **Our competitive advantages are:**
 
 1 - Reuse of balance as we aim to be in different events related to entertainment.
 
@@ -31,32 +31,7 @@ O**ur competitive advantages are:**
 
 5 We reduce the damage to the environment, since our solution is totally digital.
 
-
-Hi I am Arturo and I will give you a tour of our solution.
-
-First everything starts with the user application in which the user creates an account and is assigned a polygon wallet and the user enters a confirmation pin which will be used to sign the transactions.
-
-Once the user has his account he can top up money through the stripe service and with the help of chainlinks functions we check if this transaction was successful and how many tokens should be mined.
-
-Once the user already has a balance he can start shopping in a very simple way, for this the application generates a QR code with which the store can scan it and generate an order ....... Once the store has scanned the QR code, the user will confirm the transaction by means of his pin ...... Once the blockchain confirms the transaction, a confirmation screen will be displayed.
-
-Once the event is over, the stores will be able to get their money in a very simple way, they will only have to generate a payment order.
-
-It is worth mentioning that all these transactions, the gas is not paid by any of the users, we use a relayer so that all transactions are sponsored by us, 
-
-the way we will generate profits will be charging 3% + 0.17 $ per transaction.
-
-Now the user is not the only one who benefits from our application, also the owner of the music festival can have graphs and metrics in real time thanks to space and Time and with the dashboard we designed so you can make decisions in real time or for future events.
-
 ![diagram](diagram.png "MarineGEO logo")
-
-### Team
-
-The key piece that allows all of this to happen is our team. Kash is backed by a multi-disciplinary team of 5 people, each bringing their unique set of skills and experiences to drive our success. Together, we form a strong and committed team, ready to make Kash the new standard for mass event payments.
-
-### Closing
-
-We are reinventing the event payment experience. We're proud to be at the forefront of the cashless and blockchain revolution, and we're excited about the future we're creating. Kash is not only a solution that will enhance the mass event experience, but will also set a milestone in the leisure and entertainment industry, making the experience more convenient, secure and versatile.
 
 
 
