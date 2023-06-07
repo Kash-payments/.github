@@ -4,9 +4,13 @@
 ### Team
 
 [Arturo Guerrero : Back  End Deveoper](https://github.com/arturxdev)
+
 [Brandon Reyes : Front End Developer](https://github.com/brandonitas)
-[Sandra Hernandez : Product Designer]([https://github.com/arturxdev](https://www.linkedin.com/in/sandrahernandezm/))
+
+[Sandra Hernandez : Product Designer](https://www.linkedin.com/in/sandrahernandezm/)
+
 [Camila Pineda : Product Designer](https://github.com/arturxdev)
+
 [Daniel : Product Designer](https://github.com/arturxdev)
 
 
