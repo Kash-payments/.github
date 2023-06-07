@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![diagram](./diagram.png "MarineGEO logo")
+![diagram](diagram.png "MarineGEO logo")
 
 ### Team
 
