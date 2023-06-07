@@ -9,7 +9,7 @@
 
 [Sandra Hernandez : Product Designer](https://www.linkedin.com/in/sandrahernandezm/)
 
-[Camila Pineda : Product Designer](https://github.com/arturxdev)
+[Camila Pineda : Product Designer](https://www.linkedin.com/in/camila-pineda)
 
 [Daniel : Bussines Developer](https://github.com/arturxdev)
 
