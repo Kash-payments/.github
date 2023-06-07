@@ -11,7 +11,7 @@
 
 [Camila Pineda : Product Designer](https://github.com/arturxdev)
 
-[Daniel : Product Designer](https://github.com/arturxdev)
+[Daniel : Bussines Developer](https://github.com/arturxdev)
 
 
 **Here are some ideas to get you started:**
