@@ -61,3 +61,5 @@ Our solution is not only limited to end users, we know that merchants and event 
 ### Dependencies
 
 ![space and time](https://uploads-ssl.webflow.com/642d91209f1e772d3740afa0/6447a85f182d18352df984f3_sxt_tm.svg)
+![chainlink](https://assets-global.website-files.com/5f6b7190899f41fb70882d08/5f760a499b56c47b8fa74fbb_chainlink-logo.svg)
+![stripe](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png)
