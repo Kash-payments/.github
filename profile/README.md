@@ -58,4 +58,6 @@ Our solution is not only limited to end users, we know that merchants and event 
 - kash-supabase: make auth users easy
 
 
+### Dependencies
 
+![space and time](https://uploads-ssl.webflow.com/642d91209f1e772d3740afa0/6447a85f182d18352df984f3_sxt_tm.svg)
