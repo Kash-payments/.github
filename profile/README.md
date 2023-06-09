@@ -50,12 +50,13 @@ Our solution is not only limited to end users, we know that merchants and event 
 
 ### Repositories
 
-- Kash-pwa-customer: app for users to pay in music festivals
-- Kash-pwa-store: app for stores make charges to the users
-- kash-dashboard: Analytical dashboard for festival owners
-- kash-api: Api to send data to space and time
-- kash : smart contracts
-- kash-supabase: make auth users easy
+- kash-pwa-customer: An app for users to make payments at music festivals easily and conveniently.
+- kash-pwa-store: An app for stores to process charges for users, providing a seamless payment experience.
+- kash-dashboard: An analytical dashboard designed for festival owners, offering detailed and visually appealing insights into their events.
+- kash-api: An API that enables data transmission through space and time, providing a streamlined interface for interacting with the Kash platform.
+- kash: Smart contracts powering the infrastructure and business logic behind the Kash platform.
+- kash-supabase: Simplifies user authentication by integrating the Supabase platform, making it effortless to manage authenticated users within the Kash platform.
+- kash-landing: Landing page showcasing the features and benefits of the Kash platform.
 
 
 ### Dependencies
