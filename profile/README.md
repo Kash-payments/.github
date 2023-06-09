@@ -7,7 +7,12 @@ To get the best experience, we highly recommend viewing the demos on a mobile sc
   - password: Chainlink123.
   - pincode: 1234
 - [Kash PWA Store](https://kash-store.netlify.app/login)
+  - email: chainlink+hackstore@gmail.com
+  - password: Chainlink123.
+  - pincode: 1234
 - [Kash Dash](https://kash-dashboard.netlify.app/login)
+  - email: chainlink+admin@gmail.com
+  - password: Chainlink123.
 - [Kash Landing](https://kash-landing.netlify.app/)
 
 ### Repositories
