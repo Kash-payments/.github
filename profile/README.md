@@ -7,7 +7,7 @@
 - [kash-dash](https://github.com/Kash-payments/kash-dash): An analytical dashboard designed for festival owners, offering detailed and visually appealing insights into their events.
 - [kash-api](https://github.com/Kash-payments/kash-api): An API that enables data transmission through space and time, providing a streamlined interface for interacting with the Kash platform.
 - [kash](https://github.com/Kash-payments/kash): Smart contracts powering the infrastructure and business logic behind the Kash platform.
-- [kash-back](): Simplifies user authentication by integrating the Supabase platform, making it effortless to manage authenticated users within the Kash platform.
+- kash-back: Simplifies user authentication by integrating the Supabase platform, making it effortless to manage authenticated users within the Kash platform.
 - [kash-landing](https://github.com/Kash-payments/kash-landing): Landing page showcasing the features and benefits of the Kash platform.
 
 ### Demo
