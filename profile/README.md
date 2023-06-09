@@ -20,6 +20,8 @@ To get the best experience, we highly recommend viewing the demos on a mobile sc
 
 ### Figma
 
+- [Figma designs](https://www.figma.com/file/jexUBmw8Avf89BxiGLKFeD/Kash?type=design&node-id=0%3A1&t=E9cSJFcDkBYQWECv-1)
+
 ### Problem
 
 Have you ever been to a music festival, feeling the beat and ready to buy something to eat, but then forced to spend an eternity in line, waiting to pay cash? Or have you bought tickets to events that were later cancelled, leaving you with an unusable balance on a cashless wristband? These are common problems at mass events, especially in Latin America.
