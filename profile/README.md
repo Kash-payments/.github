@@ -81,7 +81,8 @@ Our solution is not only limited to end users, we know that merchants and event 
 
 |         |         |
 | ------- | ------- |
-| ![Chainlink](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chainlink_Logo_Blue.svg/2560px-Chainlink_Logo_Blue.svg.png) | ![Space and time](https://uploads-ssl.webflow.com/642d91209f1e772d3740afa0/6447a85f182d18352df984f3_sxt_tm.svg) |
-| ![Stripe](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png) | ![Venly](https://5844108.fs1.hubspotusercontent-na1.net/hubfs/5844108/Logo%20Gradient-1.svg) |
-| ![Polygon](https://upload.wikimedia.org/wikipedia/commons/2/24/Polygon_blockchain_logo.png) |         |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chainlink_Logo_Blue.svg/2560px-Chainlink_Logo_Blue.svg.png" alt="Chainlink" width="250" style="border: none;"> | <img src="https://uploads-ssl.webflow.com/642d91209f1e772d3740afa0/6447a85f182d18352df984f3_sxt_tm.svg" alt="Space and time" width="250" style="border: none;"> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png" alt="Stripe" width="250" style="border: none;"> | <img src="https://5844108.fs1.hubspotusercontent-na1.net/hubfs/5844108/Logo%20Gradient-1.svg" alt="Venly" width="250" style="border: none;"> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Polygon_blockchain_logo.png" alt="Plygon" width="250" style="border: none;"> |         |
+
 
