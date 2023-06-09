@@ -11,6 +11,7 @@
 - [kash-landing](https://github.com/Kash-payments/kash-landing): Landing page showcasing the features and benefits of the Kash platform.
 
 ### Demo
+To get the best experience, we highly recommend viewing the demos on a mobile screen.
 - [Kash PWA Customer](https://kash-client.netlify.app/login)
 - [Kash PWA Store](https://kash-store.netlify.app/login)
 - [Kash Dash](https://kash-dashboard.netlify.app/login)
