@@ -3,9 +3,9 @@
 ### Demo
 To get the best experience, we highly recommend viewing the demos on a mobile screen.
 - [Kash PWA Customer](https://kash-client.netlify.app/login)
--email: chainlink+hackdemo@gmail.com
--password: Chainlink123.
--pincode: 1234
+  - email: chainlink+hackdemo@gmail.com
+  - password: Chainlink123.
+  - pincode: 1234
 - [Kash PWA Store](https://kash-store.netlify.app/login)
 - [Kash Dash](https://kash-dashboard.netlify.app/login)
 - [Kash Landing](https://kash-landing.netlify.app/)
