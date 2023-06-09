@@ -79,10 +79,9 @@ Our solution is not only limited to end users, we know that merchants and event 
 
 [Sandra Hernandez : Product Designer](https://www.linkedin.com/in/sandrahernandezm/)
 
-[Camila Pineda : Product Designer](https://www.linkedin.com/in/camila-pineda)
+[Camila Pineda : Project Leader](https://www.linkedin.com/in/camila-pineda)
 
-[Daniel : Bussines Developer](https://github.com/arturxdev)
-
+[Daniel : Bussines Developer](https://www.linkedin.com/in/danielmbarragan/)
 
 
 ### Dependencies
