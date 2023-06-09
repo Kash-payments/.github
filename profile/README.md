@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+### Demo
+To get the best experience, we highly recommend viewing the demos on a mobile screen.
+- [Kash PWA Customer](https://kash-client.netlify.app/login)
+- [Kash PWA Store](https://kash-store.netlify.app/login)
+- [Kash Dash](https://kash-dashboard.netlify.app/login)
+- [Kash Landing](https://kash-landing.netlify.app/)
+
 ### Repositories
 
 - [kash-pwa-customer](https://github.com/Kash-payments/kash-pwa-customer): An app for users to make payments at music festivals easily and conveniently.
@@ -9,13 +16,6 @@
 - [kash](https://github.com/Kash-payments/kash): Smart contracts powering the infrastructure and business logic behind the Kash platform.
 - kash-back: Simplifies user authentication by integrating the Supabase platform, making it effortless to manage authenticated users within the Kash platform.
 - [kash-landing](https://github.com/Kash-payments/kash-landing): Landing page showcasing the features and benefits of the Kash platform.
-
-### Demo
-To get the best experience, we highly recommend viewing the demos on a mobile screen.
-- [Kash PWA Customer](https://kash-client.netlify.app/login)
-- [Kash PWA Store](https://kash-store.netlify.app/login)
-- [Kash Dash](https://kash-dashboard.netlify.app/login)
-- [Kash Landing](https://kash-landing.netlify.app/)
 
 
 ### Figma
