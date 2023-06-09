@@ -86,6 +86,6 @@ Our solution is not only limited to end users, we know that merchants and event 
 
 [Camila Pineda : Project Leader](https://www.linkedin.com/in/camila-pineda)
 
-[Daniel : Bussines Developer](https://www.linkedin.com/in/danielmbarragan/)
+[Daniel Barragan : Bussines Developer](https://www.linkedin.com/in/danielmbarragan/)
 
 
