@@ -1,4 +1,22 @@
 ## Hi there 👋
+
+### Repositories
+
+- [kash-pwa-customer](https://github.com/Kash-payments/kash-pwa-customer): An app for users to make payments at music festivals easily and conveniently.
+- [kash-pwa-store](https://github.com/Kash-payments/kash-pwa-store): An app for stores to process charges for users, providing a seamless payment experience.
+- [kash-dash](https://github.com/Kash-payments/kash-dash): An analytical dashboard designed for festival owners, offering detailed and visually appealing insights into their events.
+- [kash-api](https://github.com/Kash-payments/kash-api): An API that enables data transmission through space and time, providing a streamlined interface for interacting with the Kash platform.
+- [kash](https://github.com/Kash-payments/kash): Smart contracts powering the infrastructure and business logic behind the Kash platform.
+- [kash-back](): Simplifies user authentication by integrating the Supabase platform, making it effortless to manage authenticated users within the Kash platform.
+- [kash-landing](https://github.com/Kash-payments/kash-landing): Landing page showcasing the features and benefits of the Kash platform.
+
+### Demo
+- [Kash PWA Customer](https://kash-client.netlify.app/login)
+- [Kash PWA Store](https://kash-store.netlify.app/login)
+- [Kash Dash](https://kash-dashboard.netlify.app/login)
+- [Kash Landing](https://kash-landing.netlify.app/)
+
+
 ### Problem
 
 Have you ever been to a music festival, feeling the beat and ready to buy something to eat, but then forced to spend an eternity in line, waiting to pay cash? Or have you bought tickets to events that were later cancelled, leaving you with an unusable balance on a cashless wristband? These are common problems at mass events, especially in Latin America.
@@ -47,16 +65,6 @@ Our solution is not only limited to end users, we know that merchants and event 
 
 [Daniel : Bussines Developer](https://github.com/arturxdev)
 
-
-### Repositories
-
-- kash-pwa-customer: An app for users to make payments at music festivals easily and conveniently.
-- kash-pwa-store: An app for stores to process charges for users, providing a seamless payment experience.
-- kash-dashboard: An analytical dashboard designed for festival owners, offering detailed and visually appealing insights into their events.
-- kash-api: An API that enables data transmission through space and time, providing a streamlined interface for interacting with the Kash platform.
-- kash: Smart contracts powering the infrastructure and business logic behind the Kash platform.
-- kash-back: Simplifies user authentication by integrating the Supabase platform, making it effortless to manage authenticated users within the Kash platform.
-- kash-landing: Landing page showcasing the features and benefits of the Kash platform.
 
 
 ### Dependencies
