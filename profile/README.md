@@ -60,7 +60,7 @@ Kash allows users to load money into their account through debit or credit card 
 
 Our solution is not only limited to end users, we know that merchants and event organizers are also very important, that is why with Kash they will be able to obtain detailed analysis of each event, accessing information about the transactions made by users, real-time statistics per event and a complete history of Kash usage in different periods of time.
 
-### **Our competitive advantages are:**
+### **Competitive advantages**
 
 1 - Reuse of balance as we aim to be in different events related to entertainment.
 
