@@ -30,7 +30,12 @@ To get the best experience, we highly recommend viewing the demos on a mobile sc
 
 - [Figma designs](https://www.figma.com/file/jexUBmw8Avf89BxiGLKFeD/Kash?type=design&node-id=0%3A1&t=E9cSJFcDkBYQWECv-1)
 
+### Dependencies
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chainlink_Logo_Blue.svg/2560px-Chainlink_Logo_Blue.svg.png" alt="Chainlink" width="250"> 
+<img src="https://uploads-ssl.webflow.com/642d91209f1e772d3740afa0/6447a85f182d18352df984f3_sxt_tm.svg" alt="Space and time" width="250"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png" alt="Stripe" width="250"> 
+<img src="https://5844108.fs1.hubspotusercontent-na1.net/hubfs/5844108/Logo%20Gradient-1.svg" alt="Venly" width="250"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Polygon_blockchain_logo.png" alt="Plygon" width="250">
 
 
 ## Project description
@@ -83,11 +88,4 @@ Our solution is not only limited to end users, we know that merchants and event 
 
 [Daniel : Bussines Developer](https://www.linkedin.com/in/danielmbarragan/)
 
-
-### Dependencies
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chainlink_Logo_Blue.svg/2560px-Chainlink_Logo_Blue.svg.png" alt="Chainlink" width="250"> 
-<img src="https://uploads-ssl.webflow.com/642d91209f1e772d3740afa0/6447a85f182d18352df984f3_sxt_tm.svg" alt="Space and time" width="250"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png" alt="Stripe" width="250"> 
-<img src="https://5844108.fs1.hubspotusercontent-na1.net/hubfs/5844108/Logo%20Gradient-1.svg" alt="Venly" width="250"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Polygon_blockchain_logo.png" alt="Plygon" width="250">
 
