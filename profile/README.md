@@ -66,11 +66,11 @@ Our solution is not only limited to end users, we know that merchants and event 
 
 2 - Security and transparency as our entire solution is on blockchain.
 
-3 Creation of metrics for the event owner which will help him to make decisions for future events.
+3 - Creation of metrics for the event owner which will help him to make decisions for future events.
 
-4 Avoid losing the balance because the traditional solutions when you go to an event you get a wristband with a qr and if you lose your wristband you will lose your balance forever, with our solution that will be left behind.
+4 - Avoid losing the balance because the traditional solutions when you go to an event you get a wristband with a qr and if you lose your wristband you will lose your balance forever, with our solution that will be left behind.
 
-5 We reduce the damage to the environment, since our solution is totally digital.
+5 - We reduce the damage to the environment, since our solution is totally digital.
 
 ![diagram](diagram.png "MarineGEO logo")
 
