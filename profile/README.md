@@ -1,20 +1,5 @@
 ## Hi there 👋
 
-### Repositories
-
-- [kash-pwa-customer](https://github.com/Kash-payments/kash-pwa-customer): An app for users to make payments at music festivals easily and conveniently.
-- [kash-pwa-store](https://github.com/Kash-payments/kash-pwa-store): An app for stores to process charges for users, providing a seamless payment experience.
-- [kash-dash](https://github.com/Kash-payments/kash-dash): An analytical dashboard designed for festival owners, offering detailed and visually appealing insights into their events.
-- [kash-api](https://github.com/Kash-payments/kash-api): An API that enables data transmission through space and time, providing a streamlined interface for interacting with the Kash platform.
-- [kash](https://github.com/Kash-payments/kash): Smart contracts powering the infrastructure and business logic behind the Kash platform.
-- [kash-supabase](https://github.com/Kash-payments/kash-supabase): Simplifies user authentication by integrating the Supabase platform, making it effortless to manage authenticated users within the Kash platform.
-- [kash-landing](https://github.com/Kash-payments/kash-landing): Landing page showcasing the features and benefits of the Kash platform.
-
-
-### Figma
-
-- [Figma designs](https://www.figma.com/file/jexUBmw8Avf89BxiGLKFeD/Kash?type=design&node-id=0%3A1&t=E9cSJFcDkBYQWECv-1)
-
 ### Dependencies
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chainlink_Logo_Blue.svg/2560px-Chainlink_Logo_Blue.svg.png" alt="Chainlink" width="250"> 
